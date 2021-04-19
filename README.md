@@ -1,2 +1,2 @@
-# yeditepe-github-e-itimi
+# yeditepe-github-egitimi
 eğitim sırasında açtığımzı repository
