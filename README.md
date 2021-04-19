@@ -1,5 +1,5 @@
 # yeditepe-github-egitimi
-eğitim sırasında açtığımzı repository
+eğitim sırasında açtığımız repository
 
 
 Faydalanacabileceğiniz Kaynaklar
